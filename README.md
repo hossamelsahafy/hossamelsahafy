@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 - 💡 I’m a Full Stack Developer with a commerce background and a passion for building impactful, scalable web apps.
-- 📚 ALX Software Engineering Program graduate with top scores in full-stack and back-end development.
+- 📚 ALX Software Engineering Program graduate with strong performance in full-stack and back-end development.
 - 🔨 I build multilingual websites, integrate secure auth flows, and prioritize user experience and SEO.
 - 🔎 Always exploring new tools and frameworks to stay at the forefront of development.
 
