@@ -106,6 +106,8 @@ _Remote · Mar 2025 – Present_
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossamelsahafy&theme=dracula)
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelsahafy&layout=compact&theme=radical)
+<br>
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=hossamelsahafy&theme=onedark&margin-w=4)
   
 </div>
 
