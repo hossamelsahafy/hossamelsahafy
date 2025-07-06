@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full%20Stack%20Developer;MERN%20Specialist;Always%20learning%20new%20tech;Reach%20out%20anytime%20💬&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full%20Stack%20Developer;Always%20learning%20new%20tech;Reach%20out%20anytime%20💬&center=true&width=440&height=45">
+
   </a>
 </p>
 
@@ -83,15 +84,16 @@ _September 2019 – June 2023_
 
 ## 💼 Work Experience
 
-**🚀 Freelance Full-Stack Developer – Byte Force**  
-_Remote | Mar 2025 – Present_
+**🚀 Freelance Full-Stack Developer – Byte Force**
 
-- Built 3 production-ready apps using **Next.js + Payload CMS**
-- Implemented **multi-language support** (Arabic/English)
-- Designed responsive UIs with **Tailwind CSS**
-- Integrated **Google/Facebook OAuth (SSO)** for secure login
-- Applied **SEO optimization** techniques  
-  🔗 [View Projects](#)
+_Remote · Mar 2025 – Present_
+
+- Developed production-grade web applications using **Next.js** and **Payload CMS**
+- Implemented **multi-language support** (Arabic/English) for seamless localization
+- Built responsive, mobile-friendly interfaces with **Tailwind CSS**
+- Integrated secure **SSO authentication** via Google and Facebook OAuth
+- Applied **SEO best practices** to improve visibility and search ranking  
+  🔗 [View Projects](https://hossam-portfolio-ruby.vercel.app/resume)
 
 ---
 
@@ -114,9 +116,12 @@ _Remote | Mar 2025 – Present_
 ## 📬 Contact Me
 
 <div align="center">
-<a href="mailto:hossamelsahafy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hossamelsahafy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/hossamelsahafy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:hossamelsa7afy54@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hossamelsahafy-4h/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/201501083054" target="_blank">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </div>
 
 ---
