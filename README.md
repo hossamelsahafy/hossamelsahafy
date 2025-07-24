@@ -2,6 +2,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
+<p align="center">
+  <a href="https://hossam-portfolio-ruby.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 <h3 align="center">
   Hi, I'm Hossam Waleed Elsahafy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
