@@ -106,15 +106,15 @@ _Remote · Mar 2025 – Present_
 ## 📈 Stats & Contributions
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamelsahafy&show_icons=true&theme=algolia&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamelsahafy&show_icons=true&theme=algolia&count_private=true&hide=issues,contribs)
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hossamelsahafy&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hossamelsahafy&theme=dracula)
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelsahafy&layout=compact&theme=radical)
 <br>
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=hossamelsahafy&theme=onedark&margin-w=4)
-  
+
 </div>
 
 ---
