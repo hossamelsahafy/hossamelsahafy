@@ -107,7 +107,7 @@ _Remote · Mar 2025 – Present_
 
 <div align="center">
 
-[!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=hossamelsahafy)](https://github.com/hossamelsahafy/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hossamelsahafy&theme=dracula)
 
 </div>
 
