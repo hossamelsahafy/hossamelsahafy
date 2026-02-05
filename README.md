@@ -107,7 +107,7 @@ _Remote · Mar 2025 – Present_
 
 <div align="center">
 
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=hossamelsahafy&theme=onedark&margin-w=4)
+[!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=hossamelsahafy)](https://github.com/hossamelsahafy/github-readme-stats)
 
 </div>
 
