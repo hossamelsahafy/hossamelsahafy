@@ -114,6 +114,7 @@ _Remote · Mar 2025 – Present_
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelsahafy&layout=compact&theme=radical)
 <br>
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=hossamelsahafy&theme=onedark&margin-w=4)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossamelsahafy)](https://github.com/hossamelsahafy/github-readme-stats)
 
 </div>
 
